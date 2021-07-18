@@ -1,6 +1,6 @@
 # Steven Kearnes
 
-[Education](#education) | [Experience](#experience) | [Publications](#publications) | [Talks](#talks)
+[Education](#education) | [Experience](#experience) | [Affiliations](#affiliations) | [Publications](#publications) | [Talks](#talks)
 
 ## Education
 
