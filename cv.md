@@ -66,7 +66,7 @@
 
 ### 2017
 
-* O. Anatole von Lilienfeld research group, Department of Chemistry, University of Basel, Basel, Switzerland (6 April)
+* O. Anatole von Lilienfeld research group, University of Basel, Basel, Switzerland (6 April)
 * Novartis Institutes for BioMedical Research, Basel, Switzerland (6 April)
 * "Framing the Role of Big Data and Modern Data Science in Chemistry", NSF CHE workshop, Arlington, VA (17-19 April)
 * Vertex Pharmaceuticals, Boston, MA (1 May)
