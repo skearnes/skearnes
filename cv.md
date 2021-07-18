@@ -87,7 +87,7 @@
 * Insitro, South San Francisco, CA (12 March)
 * Harvard APMTH 216: Inverse Problems in Science and Engineering (3 April; remote)
 * Nurix Therapeutics (29 June; remote)
-* RDKit UGM (7 October; remote)
+* RDKit UGM (7 October; [YouTube](https://youtu.be/UyHVwJUBDIk))
 * Bay Area COMP Together (17 November; remote lightning talk)
 
 ### 2021
