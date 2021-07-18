@@ -15,8 +15,8 @@
 
 * PhD Structural Biology
 * Adviser: Vijay Pande
-* Dissertation: "Finding Needles in a Haystack: Molecular Similarity and Machine Learning for Drug Discovery Applications" ([link](https://searchworks.stanford.edu/view/11849467))
-* Internships at __Google__ and __Vertex Pharmaceuticals__.
+* [Dissertation](https://searchworks.stanford.edu/view/11849467): "Finding Needles in a Haystack: Molecular Similarity and Machine Learning for Drug Discovery Applications"
+* Internships at __Google__ and __Vertex Pharmaceuticals__
 
 ## Experience
 
@@ -30,8 +30,8 @@
 
 ## Affiliations
 
-* Governing Committee, Open Reaction Database (2019&ndash;Present)
-* Editorial Board, Artificial Intelligence in the Life Sciences (2021&ndash;Present)
+* Governing Committee, [Open Reaction Database](https://open-reaction-database.org) (2019&ndash;Present)
+* Editorial Board, [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences) (2021&ndash;Present)
 
 ## Publications
 
