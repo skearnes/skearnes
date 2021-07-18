@@ -84,7 +84,7 @@
 ### 2020
 
 * Relay Therapeutics, Cambridge, MA (25 Februrary)
-* "New Era of Data Collection for Discovery and Manufacturing", AI Powered Drug Discovery and Manufacturing Conference, MIT, Cambridge, MA (27 February; panel discussion)
+* AI Powered Drug Discovery and Manufacturing Conference, MIT, Cambridge, MA (27 February; panel discussion)
 * Insitro, South San Francisco, CA (12 March)
 * Harvard APMTH 216: Inverse Problems in Science and Engineering (3 April; remote)
 * Nurix Therapeutics (29 June; remote)
