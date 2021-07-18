@@ -37,7 +37,8 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=LxJEYK4AAAAJ&hl=en)
 
-Research highlights:
+### Research highlights:
+
 * Large-Scale Machine Learning for Drug Discovery (2 March 2015; [Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html))
 * Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
 * Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
