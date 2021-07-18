@@ -15,8 +15,8 @@
 
 * PhD Structural Biology
 * Adviser: Vijay Pande
-* [Dissertation](https://searchworks.stanford.edu/view/11849467): "Finding Needles in a Haystack: Molecular Similarity and Machine Learning for Drug Discovery Applications"
 * Internships at __Google__ and __Vertex Pharmaceuticals__
+* [Dissertation](https://searchworks.stanford.edu/view/11849467): "Finding Needles in a Haystack: Molecular Similarity and Machine Learning for Drug Discovery Applications"
 
 ## Experience
 
