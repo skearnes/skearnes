@@ -1,5 +1,7 @@
 # Steven Kearnes
 
+[Education](#education) | [Experience](#experience) | [Publications](#publications) | [Talks](#talks)
+
 ## Education
 
 ### Brigham Young University 
