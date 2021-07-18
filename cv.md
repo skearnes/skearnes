@@ -71,6 +71,7 @@
 * "Framing the Role of Big Data and Modern Data Science in Chemistry", NSF CHE workshop, Arlington, VA (18 April)
 * Vertex Pharmaceuticals, Boston, MA (1 May)
 * Vertex Pharmaceuticals, Abingdon, UK (23 May; remote)
+* SPARK at Stanford (4 October; panel discussion)
 
 ### 2018
 
