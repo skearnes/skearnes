@@ -33,6 +33,7 @@
 * Governing Committee, [Open Reaction Database](https://open-reaction-database.org) (2019&ndash;Present)
 * Guest Editor, ["Artificial Intelligence in Drug Discovery"](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01077), _Journal of Medicinal Chemistry_ Special Issue (2020)
 * Editorial Board, [_Artificial Intelligence in the Life Sciences_](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences) (2021&ndash;Present)
+* Session Chair, Gordon Research Conference: Computer Aided Drug Design, West Dover, VT (2021)
 
 ## Publications
 
@@ -55,7 +56,7 @@
 
 ### 2015
 
-* Gordon Research Seminar, Computer Aided Drug Design, West Dover, VT (18 July)
+* Gordon Research Seminar: Computer Aided Drug Design, West Dover, VT (18 July)
 * Novartis Institutes for Biomedical Research, Cambridge, MA (6 August; remote)
 * National Institute of Environmental Health Sciences, Research Triangle Park, NC (16 September; remote)
 * Brigham Young University Department of Chemistry and Biochemistry, Provo, UT (23 September)
@@ -68,7 +69,7 @@
 
 * O. Anatole von Lilienfeld research group, University of Basel, Basel, Switzerland (6 April)
 * Novartis Institutes for BioMedical Research, Basel, Switzerland (6 April)
-* "Framing the Role of Big Data and Modern Data Science in Chemistry", NSF CHE workshop, Arlington, VA (18 April)
+* NSF CHE Workshop: Framing the Role of Big Data and Modern Data Science in Chemistry, Arlington, VA (18 April)
 * Vertex Pharmaceuticals, Boston, MA (1 May)
 * Vertex Pharmaceuticals, Abingdon, UK (23 May; remote)
 * SPARK at Stanford (4 October; panel discussion)
@@ -80,7 +81,7 @@
 
 ### 2019
 
-* Gordon Research Conference, Computer Aided Drug Design, Mount Snow, VT (16 July)
+* Gordon Research Conference: Computer Aided Drug Design, West Dover, VT (16 July)
 
 ### 2020
 
