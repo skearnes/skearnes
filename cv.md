@@ -97,4 +97,4 @@
 * SynTech CDT, University of Cambridge, Cambridge, UK (12 May; remote)
 * NIH Virtual Workshop on Reaction Informatics (19 May; remote)
 * Cambridge Cheminformatics Meeting (2 June; [YouTube](https://youtu.be/T-AtZgGanAk?t=251))
-* VISTA Symposium on Artificial-Intelligence and Data-Science assisted Synthesis (16 July)
+* VISTA Symposium on Artificial-Intelligence and Data-Science assisted Synthesis (16 July; remote)
