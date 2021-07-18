@@ -28,6 +28,11 @@
 ### Relay Therapeutics
 2021&ndash;Present, Director of AI Research
 
+## Affiliations
+
+* Governing Committee, Open Reaction Database (2019&ndash;Present)
+* Editorial Board, Artificial Intelligence in the Life Sciences (2021&ndash;Present)
+
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=LxJEYK4AAAAJ&hl=en)
