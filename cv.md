@@ -97,6 +97,6 @@
 
 * Boston Area Group for Informatics and Modeling (26 January; [YouTube](https://youtu.be/6IDKEIln1JM))
 * SynTech CDT, University of Cambridge, Cambridge, UK (12 May; remote)
-* NIH Virtual Workshop on Reaction Informatics (19 May; remote)
+* NIH Virtual Workshop on Reaction Informatics (19 May; [Video](https://nci.rev.vbrick.com/sharevideo/cf6e33d3-12bb-4fca-90ae-72877bacc6a4))
 * Cambridge Cheminformatics Meeting (2 June; [YouTube](https://youtu.be/T-AtZgGanAk?t=251))
 * VISTA Symposium on Artificial-Intelligence and Data-Science assisted Synthesis (16 July; remote)
