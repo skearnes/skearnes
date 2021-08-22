@@ -41,10 +41,10 @@
 
 ### 2020
 
+* Moshiri J, Constant DA, Liu B, Mateo R, Kearnes S, Novick P, et al. A Targeted Computational Screen of the SWEETLEAD Database Reveals FDA-Approved Compounds with Anti-Dengue Viral Activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
+* McCloskey K, Sigel EA, Kearnes S, Xue L, Tian X, Moccia D, et al. Machine Learning on DNA-Encoded Libraries: A New Paradigm for Hit Finding. _J Med Chem_ 63, 8857–8866. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c00452), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
 * Bajorath J, Kearnes S, Walters WP, Meanwell NA, Georg GI, Wang S. Artificial Intelligence in Drug Discovery: Into the Great Wide Open. _J Med Chem_ 63, 8651–8652. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c01077))
 * Sun R, Dai H, Li L, Kearnes S, Dai B. Energy-based View of Retrosynthesis. ([arXiv](https://arxiv.org/pdf/2007.13437.pdf))
-* McCloskey K, Sigel EA, Kearnes S, Xue L, Tian X, Moccia D, et al. Machine Learning on DNA-Encoded Libraries: A New Paradigm for Hit Finding. _J Med Chem_ 63, 8857–8866. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c00452), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
-* Moshiri J, Constant DA, Liu B, Mateo R, Kearnes S, Novick P, et al. A Targeted Computational Screen of the SWEETLEAD Database Reveals FDA-Approved Compounds with Anti-Dengue Viral Activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
 * Kearnes S. Pursuing a Prospective Perspective. _Trends in Chemistry_ 3, 77–79. ([TiC](https://doi.org/10.1016/j.trechm.2020.10.012), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
 
 ### 2019
@@ -64,10 +64,10 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 
 ### 2016
 
-* T. McGibbon R, X. Hernández C, P. Harrigan M, Kearnes S, M. Sultan M, Jastrzebski S, et al. Osprey: Hyperparameter optimization for machine learning. _J Open Source Softw_ 1, 34. ([JOSS](https://doi.org/10.21105/joss.00034))
-* Kearnes S, Goldman B, Pande V. Modeling Industrial ADMET Data with Multitask Networks. ([arXiv](http://arxiv.org/abs/1606.08793))
-* Kearnes S, Pande V. ROCS-derived features for virtual screening. _J Comput Aided Mol Des_ 30, 609–617. ([JCAMD](https://doi.org/10.1007/s10822-016-9959-3), [arXiv](https://arxiv.org/pdf/1606.01822.pdf))
 * Kearnes S, McCloskey K, Berndl M, Pande V, Riley P. Molecular graph convolutions: Moving beyond fingerprints. _J Comput Aided Mol Des_ 30, 595–608. ([JCAMD](https://doi.org/10.1007/s10822-016-9938-8), [arXiv](https://arxiv.org/pdf/1603.00856.pdf))
+* Kearnes S, Pande V. ROCS-derived features for virtual screening. _J Comput Aided Mol Des_ 30, 609–617. ([JCAMD](https://doi.org/10.1007/s10822-016-9959-3), [arXiv](https://arxiv.org/pdf/1606.01822.pdf))
+* Kearnes S, Goldman B, Pande V. Modeling Industrial ADMET Data with Multitask Networks. ([arXiv](http://arxiv.org/abs/1606.08793))
+* T. McGibbon R, X. Hernández C, P. Harrigan M, Kearnes S, M. Sultan M, Jastrzebski S, et al. Osprey: Hyperparameter optimization for machine learning. _J Open Source Softw_ 1, 34. ([JOSS](https://doi.org/10.21105/joss.00034))
 
 ### 2015
 
