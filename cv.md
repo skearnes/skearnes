@@ -39,6 +39,13 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=LxJEYK4AAAAJ&hl=en)
 
+### Research highlights:
+
+* Large-Scale Machine Learning for Drug Discovery (2 March 2015; [Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html))
+* Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
+* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
+* Machine Learning On Top of DNA Encoded Libraries (16 June 2020; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries))
+
 ### 2020
 
 * Moshiri J, Constant DA, Liu B, Mateo R, __Kearnes S__, Novick P, et al. A targeted computational screen of the SWEETLEAD database reveals FDA-approved compounds with anti-dengue viral activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
@@ -76,13 +83,6 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 ### 2014
 
 * __Kearnes SM__, Haque IS, Pande VS. SCISSORS: Practical considerations. _J Chem Inf Model_ 54, 5–15. ([JCIM](https://doi.org/10.1021/ci400264f), [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207653/))
-
-### Research highlights:
-
-* Large-Scale Machine Learning for Drug Discovery (2 March 2015; [Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html))
-* Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
-* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
-* Machine Learning On Top of DNA Encoded Libraries (16 June 2020; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries))
 
 ## Talks
 
