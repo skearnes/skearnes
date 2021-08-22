@@ -30,10 +30,10 @@
 
 ## Community Contributions
 
-* Session Chair, Gordon Research Conference: Computer Aided Drug Design, West Dover, VT (2021)
-* Editorial Board, [_Artificial Intelligence in the Life Sciences_](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences) (2021&ndash;Present)
-* Guest Editor, ["Artificial Intelligence in Drug Discovery"](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01077), _Journal of Medicinal Chemistry_ Special Issue (2020)
 * Governing Committee, [Open Reaction Database](https://open-reaction-database.org) (2019&ndash;Present)
+* Guest Editor, ["Artificial Intelligence in Drug Discovery"](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01077), _Journal of Medicinal Chemistry_ Special Issue (2020)
+* Editorial Board, [_Artificial Intelligence in the Life Sciences_](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences) (2021&ndash;Present)
+* Session Chair, Gordon Research Conference: Computer Aided Drug Design, West Dover, VT (2021)
 
 ## Publications
 
@@ -41,10 +41,10 @@
 
 ### Research highlights:
 
-* Machine Learning On Top of DNA Encoded Libraries (16 June 2020; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries))
-* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
-* Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
 * Large-Scale Machine Learning for Drug Discovery (2 March 2015; [Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html))
+* Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
+* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
+* Machine Learning On Top of DNA Encoded Libraries (16 June 2020; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries))
 
 ## Talks
 
