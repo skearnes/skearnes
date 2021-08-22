@@ -59,7 +59,7 @@
 * __Kearnes S__, Li L, Riley P. Decoding molecular graph embeddings with reinforcement learning. ICML 2019 Workshop on Learning and Reasoning
 with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 * Bajorath J, __Kearnes S__, Walters WP, Georg GI, Wang S. The future is now: Artificial intelligence in drug discovery. _J Med Chem_ 62, 5249. ([JMC](https://doi.org/10.1021/acs.jmedchem.9b00805))
-* Zhou Z, __Kearnes S__, Li L, Zare RN, Riley P. Optimization of molecules via deep reinforcement learning. _Scientific Reports_ 9, 10752. ([Sci Rep](https://doi.org/10.1038/s41598-019-47148-x))
+* Zhou Z, __Kearnes S__, Li L, Zare RN, Riley P. Optimization of molecules via deep reinforcement learning. _Scientific Reports_ 9, 10752. ([SciRep](https://doi.org/10.1038/s41598-019-47148-x))
 
 ### 2018
 
