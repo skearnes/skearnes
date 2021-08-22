@@ -41,10 +41,10 @@
 
 ### Research highlights:
 
-* Large-Scale Machine Learning for Drug Discovery (2 March 2015; [Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html))
-* Neural Networks for Drug Discovery: A Work in Progress (4 March 2015; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress))
-* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning (11 June 2020; [Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html))
-* Machine Learning On Top of DNA Encoded Libraries (16 June 2020; [In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries))
+* Large-Scale Machine Learning for Drug Discovery ([Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html), 2 March 2015)
+* Neural Networks for Drug Discovery: A Work in Progress ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress), 4 March 2015)
+* Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning ([Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html), 11 June 2020)
+* Machine Learning On Top of DNA Encoded Libraries ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries), 16 June 2020)
 
 ### 2020
 
