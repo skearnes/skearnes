@@ -41,18 +41,18 @@
 
 ### 2020
 
-* Moshiri J, Constant DA, Liu B, Mateo R, Kearnes S, Novick P, et al. A Targeted Computational Screen of the SWEETLEAD Database Reveals FDA-Approved Compounds with Anti-Dengue Viral Activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
-* McCloskey K, Sigel EA, Kearnes S, Xue L, Tian X, Moccia D, et al. Machine Learning on DNA-Encoded Libraries: A New Paradigm for Hit Finding. _J Med Chem_ 63, 8857–8866. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c00452), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
-* Bajorath J, Kearnes S, Walters WP, Meanwell NA, Georg GI, Wang S. Artificial Intelligence in Drug Discovery: Into the Great Wide Open. _J Med Chem_ 63, 8651–8652. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c01077))
-* Sun R, Dai H, Li L, Kearnes S, Dai B. Energy-based View of Retrosynthesis. ([arXiv](https://arxiv.org/pdf/2007.13437.pdf))
+* Moshiri J, Constant DA, Liu B, Mateo R, Kearnes S, Novick P, et al. A targeted computational screen of the SWEETLEAD database reveals FDA-approved compounds with anti-dengue viral activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
+* McCloskey K, Sigel EA, Kearnes S, Xue L, Tian X, Moccia D, et al. Machine learning on DNA-encoded libraries: A new paradigm for hit finding. _J Med Chem_ 63, 8857–8866. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c00452), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
+* Bajorath J, Kearnes S, Walters WP, Meanwell NA, Georg GI, Wang S. Artificial intelligence in drug discovery: Into the great wide open. _J Med Chem_ 63, 8651–8652. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c01077))
+* Sun R, Dai H, Li L, Kearnes S, Dai B. Energy-based view of retrosynthesis. ([arXiv](https://arxiv.org/pdf/2007.13437.pdf))
 * Kearnes S. Pursuing a Prospective Perspective. _Trends in Chemistry_ 3, 77–79. ([TiC](https://doi.org/10.1016/j.trechm.2020.10.012), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
 
 ### 2019
 
-* Kearnes S, Li L, Riley P. Decoding Molecular Graph Embeddings with Reinforcement Learning. ICML 2019 Workshop on Learning and Reasoning
+* Kearnes S, Li L, Riley P. Decoding molecular graph embeddings with reinforcement learning. ICML 2019 Workshop on Learning and Reasoning
 with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
-* Bajorath J, Kearnes S, Walters WP, Georg GI, Wang S. The Future Is Now: Artificial Intelligence in Drug Discovery. _J Med Chem_ 62, 5249. ([JMC](https://doi.org/10.1021/acs.jmedchem.9b00805))
-* Zhou Z, Kearnes S, Li L, Zare RN, Riley P. Optimization of Molecules via Deep Reinforcement Learning. _Scientific Reports_ 9, 10752. ([Sci Rep](https://doi.org/10.1038/s41598-019-47148-x))
+* Bajorath J, Kearnes S, Walters WP, Georg GI, Wang S. The future is now: Artificial intelligence in drug discovery. _J Med Chem_ 62, 5249. ([JMC](https://doi.org/10.1021/acs.jmedchem.9b00805))
+* Zhou Z, Kearnes S, Li L, Zare RN, Riley P. Optimization of molecules via deep reinforcement learning. _Scientific Reports_ 9, 10752. ([Sci Rep](https://doi.org/10.1038/s41598-019-47148-x))
 
 ### 2018
 
@@ -60,22 +60,22 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 
 ### 2017
 
-* Faber FA, Hutchison L, Huang B, Gilmer J, Schoenholz SS, Dahl GE, et al. Prediction Errors of Molecular Machine Learning Models Lower than Hybrid DFT Error. _J Chem Theory Comput_ 13, 5255–5264. ([JCTC](https://doi.org/10.1021/acs.jctc.7b00577), [arXiv](https://arxiv.org/pdf/1702.05532.pdf))
+* Faber FA, Hutchison L, Huang B, Gilmer J, Schoenholz SS, Dahl GE, et al. Prediction errors of molecular machine learning models lower than hybrid DFT error. _J Chem Theory Comput_ 13, 5255–5264. ([JCTC](https://doi.org/10.1021/acs.jctc.7b00577), [arXiv](https://arxiv.org/pdf/1702.05532.pdf))
 
 ### 2016
 
 * Kearnes S, McCloskey K, Berndl M, Pande V, Riley P. Molecular graph convolutions: Moving beyond fingerprints. _J Comput Aided Mol Des_ 30, 595–608. ([JCAMD](https://doi.org/10.1007/s10822-016-9938-8), [arXiv](https://arxiv.org/pdf/1603.00856.pdf))
 * Kearnes S, Pande V. ROCS-derived features for virtual screening. _J Comput Aided Mol Des_ 30, 609–617. ([JCAMD](https://doi.org/10.1007/s10822-016-9959-3), [arXiv](https://arxiv.org/pdf/1606.01822.pdf))
-* Kearnes S, Goldman B, Pande V. Modeling Industrial ADMET Data with Multitask Networks. ([arXiv](http://arxiv.org/abs/1606.08793))
+* Kearnes S, Goldman B, Pande V. Modeling industrial ADMET data with multitask networks. ([arXiv](http://arxiv.org/abs/1606.08793))
 * T. McGibbon R, X. Hernández C, P. Harrigan M, Kearnes S, M. Sultan M, Jastrzebski S, et al. Osprey: Hyperparameter optimization for machine learning. _J Open Source Softw_ 1, 34. ([JOSS](https://doi.org/10.21105/joss.00034))
 
 ### 2015
 
-* Ramsundar B, Kearnes S, Riley P, Webster D, Konerding D, Pande V. Massively Multitask Networks for Drug Discovery. ([arXiv](http://arxiv.org/abs/1502.02072))
+* Ramsundar B, Kearnes S, Riley P, Webster D, Konerding D, Pande V. Massively multitask networks for drug discovery. ([arXiv](http://arxiv.org/abs/1502.02072))
 
 ### 2014
 
-* Kearnes SM, Haque IS, Pande VS. SCISSORS: practical considerations. _J Chem Inf Model_ 54, 5–15. ([JCIM](https://doi.org/10.1021/ci400264f), [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207653/))
+* Kearnes SM, Haque IS, Pande VS. SCISSORS: Practical considerations. _J Chem Inf Model_ 54, 5–15. ([JCIM](https://doi.org/10.1021/ci400264f), [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4207653/))
 
 ### Research highlights:
 
