@@ -89,6 +89,10 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 
 ## Talks
 
+### 2022
+
+* C-CAS Semi-Annual Meeting (11 March; remote)
+
 ### 2021
 
 * Boston Area Group for Informatics and Modeling (26 January; [YouTube](https://youtu.be/6IDKEIln1JM))
