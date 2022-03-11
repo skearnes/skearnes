@@ -48,7 +48,7 @@
 
 ### 2021
 
-* __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826.
+* __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826. ([JACS](https://doi.org/10.1021/jacs.1c09820))
 
 ### 2020
 
