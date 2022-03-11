@@ -46,6 +46,10 @@
 * Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning ([Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html), 11 June 2020)
 * Machine Learning On Top of DNA Encoded Libraries ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries), 16 June 2020)
 
+### 2021
+
+* __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826.
+
 ### 2020
 
 * Moshiri J, Constant DA, Liu B, Mateo R, __Kearnes S__, Novick P, et al. A Targeted Computational Screen of the SWEETLEAD Database Reveals FDA-Approved Compounds with Anti-Dengue Viral Activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
