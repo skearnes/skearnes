@@ -92,6 +92,7 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 ### 2022
 
 * C-CAS Semi-Annual Meeting (11 March; remote)
+* Harvard APMTH 216: Inverse Problems in Science and Engineering (6 April)
 
 ### 2021
 
