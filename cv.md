@@ -93,6 +93,7 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 
 * C-CAS Semi-Annual Meeting (11 March; remote)
 * Harvard APMTH 216: Inverse Problems in Science and Engineering (6 April)
+* Harvard COMPSCI 282R: Topics in Machine Learning: Advancements in Probabilistic ML, Programming Models for ML, Causality (8 April)
 
 ### 2021
 
