@@ -45,6 +45,10 @@
 * Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning ([Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html), 11 June 2020)
 * Machine Learning On Top of DNA Encoded Libraries ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries), 16 June 2020)
 
+### 2022
+
+* Goldman B, __Kearnes S__, Kramer T, Riley P, Walters WP. Defining Levels of Automated Chemical Design. _J Med Chem_. ([JMC](https://doi.org/10.1021/acs.jmedchem.2c00334))
+
 ### 2021
 
 * __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826. ([JACS](https://doi.org/10.1021/jacs.1c09820))
