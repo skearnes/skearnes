@@ -44,6 +44,7 @@
 * Neural Networks for Drug Discovery: A Work in Progress ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress), 4 March 2015)
 * Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning ([Google AI Blog](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html), 11 June 2020)
 * Machine Learning On Top of DNA Encoded Libraries ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/06/16/machine-learning-on-top-of-dna-encoded-libraries), 16 June 2020)
+* A new database for machine-learning research ([C&EN](https://cen.acs.org/physical-chemistry/computational-chemistry/new-database-machine-learning-research/99/web/2021/11), 22 November 2021)
 
 ### 2022
 
