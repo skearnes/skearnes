@@ -116,7 +116,7 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 * Harvard APMTH 216: Inverse Problems in Science and Engineering (3 April; remote)
 * Insitro, South San Francisco, CA (12 March)
 * AI Powered Drug Discovery and Manufacturing Conference, MIT, Cambridge, MA (27 February; panel discussion)
-* Relay Therapeutics, Cambridge, MA (25 Februrary)
+* Relay Therapeutics, Cambridge, MA (25 February)
 
 ### 2019
 
