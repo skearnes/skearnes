@@ -33,6 +33,7 @@
 * Editorial Board, [_Artificial Intelligence in the Life Sciences_](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences) (2021&ndash;Present)
 * Guest Editor, ["Artificial Intelligence in Drug Discovery"](https://pubs.acs.org/doi/full/10.1021/acs.jmedchem.0c01077), _Journal of Medicinal Chemistry_ Special Issue (2020)
 * Governing Committee, [Open Reaction Database](https://open-reaction-database.org) (2019&ndash;Present)
+* External Advisory Board, NSF Center for Computer Assisted Synthesis ([C-CAS](https://ccas.nd.edu/)) (2022&ndash;Present)
 
 ## Publications
 
