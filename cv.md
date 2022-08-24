@@ -21,10 +21,12 @@
 ## Experience
 
 ### Relay Therapeutics
-2021&ndash;Present, Director of AI Research
+> 2021&ndash;Present: Director, AI Research
 
 ### Google
-2016&ndash;2021, Software Engineer / Research Scientist / Senior Research Scientist
+> 2019&ndash;2021: Senior Research Scientist<br>
+> 2018&ndash;2019: Research Scientist<br>
+> 2016&ndash;2018: Software Engineer
 
 [Google Applied Science](https://research.google/teams/applied-science/)
 
