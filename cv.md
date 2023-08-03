@@ -49,9 +49,13 @@
 * Neural Networks for Drug Discovery: A Work in Progress ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress), 4 March 2015)
 * Large-Scale Machine Learning for Drug Discovery ([Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html), 2 March 2015)
 
+### 2023
+
+* Mercado R, __Kearnes SM__, Coley C. Data Sharing in Chemistry: Lessons Learned and a Case for Mandating Structured Reaction Data. _J Chem Inf Model_ 63, 14, 4253–4265. ([JCIM](https://doi.org/10.1021/acs.jcim.3c00607))
+
 ### 2022
 
-* Goldman B, __Kearnes S__, Kramer T, Riley P, Walters WP. Defining Levels of Automated Chemical Design. _J Med Chem_. ([JMC](https://doi.org/10.1021/acs.jmedchem.2c00334))
+* Goldman B, __Kearnes S__, Kramer T, Riley P, Walters WP. Defining Levels of Automated Chemical Design. _J Med Chem_ 65, 10, 7073–7087. ([JMC](https://doi.org/10.1021/acs.jmedchem.2c00334))
 
 ### 2021
 
