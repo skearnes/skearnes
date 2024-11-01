@@ -21,7 +21,7 @@
 ## Experience
 
 ### Relay Therapeutics
-> 2021&ndash;Present: Director, AI Research
+> 2021&ndash;2024: Director, AI Research
 
 ### Google
 > 2019&ndash;2021: Senior Research Scientist<br>
