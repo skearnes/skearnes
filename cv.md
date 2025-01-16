@@ -68,12 +68,11 @@
 
 * __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826. ([JACS](https://doi.org/10.1021/jacs.1c09820))
 * Han K, __Kearnes S__, Xu J, Torng W, Feng JW. Improving Hit-finding: Multilabel Neural Architecture with DEL. NeurIPS 2021 Workshop: AI for Science. ([OpenReview](https://openreview.net/forum?id=fScB3uII-JV))
-* Sun R, Dai H, Li L, __Kearnes S__, Dai B. Towards understanding retrosynthesis by energy-based models. _Advances in Neural Information Processing Systems_ 34, 10186–10194. ([OpenReview](https://openreview.net/forum?id=yGKi6deX8bX))
+* Sun R, Dai H, Li L, __Kearnes S__, Dai B. Towards understanding retrosynthesis by energy-based models. _Advances in Neural Information Processing Systems_ 34, 10186–10194. ([OpenReview](https://openreview.net/forum?id=yGKi6deX8bX), [arXiv](https://arxiv.org/pdf/2007.13437.pdf))
 
 ### 2020
 
 * __Kearnes S__. Pursuing a Prospective Perspective. _Trends in Chemistry_ 3, 77–79. ([TiC](https://doi.org/10.1016/j.trechm.2020.10.012), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
-* Sun R, Dai H, Li L, __Kearnes S__, Dai B. Energy-Based View of Retrosynthesis. ([arXiv](https://arxiv.org/pdf/2007.13437.pdf))
 * Bajorath J, __Kearnes S__, Walters WP, Meanwell NA, Georg GI, Wang S. Artificial Intelligence in Drug Discovery: Into the Great Wide Open. _J Med Chem_ 63, 8651–8652. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c01077))
 * McCloskey K, Sigel EA, __Kearnes S__, Xue L, Tian X, Moccia D, et al. Machine Learning on DNA-Encoded Libraries: A New Paradigm for Hit Finding. _J Med Chem_ 63, 8857–8866. ([JMC](https://doi.org/10.1021/acs.jmedchem.0c00452), [arXiv](https://arxiv.org/pdf/2009.00707.pdf))
 * Moshiri J, Constant DA, Liu B, Mateo R, __Kearnes S__, Novick P, et al. A Targeted Computational Screen of the SWEETLEAD Database Reveals FDA-Approved Compounds with Anti-Dengue Viral Activity. _mBio_ 11. ([mBio](https://doi.org/10.1128/mBio.02839-20))
