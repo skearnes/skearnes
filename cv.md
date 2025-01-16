@@ -52,12 +52,13 @@
 
 ### 2024
 
-* Ackloo S, et al. A Target Class Ligandability Evaluation of WD40 Repeat-Containing Proteins. _J Med Chem_. ([JMC](https://doi.org/10.1021/acs.jmedchem.4c02010))
+* Ackloo S, et al. A Target Class Ligandability Evaluation of WD40 Repeat-Containing Proteins. _J Med Chem_. ([JMC](https://doi.org/10.1021/acs.jmedchem.4c02010), [bioRxiv](https://doi.org/10.1101/2024.03.03.583197))
 * __Kearnes S__, Riley P. Ordinal Confidence Level Assignments for Regression Model Predictions. _J Chem Inf Model_ 64, 24, 9299–9305. ([JCIM](https://doi.org/10.1021/acs.jcim.4c01755), [GitHub](https://github.com/skearnes/ocla))
 
 ### 2023
 
 * Mercado R, __Kearnes SM__, Coley C. Data Sharing in Chemistry: Lessons Learned and a Case for Mandating Structured Reaction Data. _J Chem Inf Model_ 63, 14, 4253–4265. ([JCIM](https://doi.org/10.1021/acs.jcim.3c00607))
+* Xu J, __Kearnes S__, Feng JW. Hit Expansion Driven By Machine Learning. NeurIPS 2023 Workshop: New Frontiers of AI for Drug Discovery and Development. ([OpenReview](https://openreview.net/forum?id=nYTeNDMz0E))
 
 ### 2022
 
@@ -66,6 +67,8 @@
 ### 2021
 
 * __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826. ([JACS](https://doi.org/10.1021/jacs.1c09820))
+* Han K, __Kearnes S__, Xu J, Torng W, Feng JW. Improving Hit-finding: Multilabel Neural Architecture with DEL. NeurIPS 2021 Workshop: AI for Science. ([OpenReview](https://openreview.net/forum?id=fScB3uII-JV))
+* Sun R, Dai H, Li L, __Kearnes S__, Dai B. Towards understanding retrosynthesis by energy-based models. _Advances in Neural Information Processing Systems_ 34, 10186–10194. ([OpenReview](https://openreview.net/forum?id=yGKi6deX8bX))
 
 ### 2020
 
@@ -93,6 +96,7 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 ### 2016
 
 * T. McGibbon R, X. Hernández C, P. Harrigan M, __Kearnes S__, M. Sultan M, Jastrzebski S, et al. Osprey: Hyperparameter Optimization for Machine Learning. _J Open Source Softw_ 1, 34. ([JOSS](https://doi.org/10.21105/joss.00034))
+* __Kearnes SM__. Finding Needles in a Haystack: Molecular Similarity and Machine Learning for Drug Discovery Applications. (PhD dissertation; [Stanford](https://purl.stanford.edu/ch768zr5433)).
 * __Kearnes S__, Goldman B, Pande V. Modeling Industrial ADMET Data with Multitask Networks. ([arXiv](http://arxiv.org/abs/1606.08793))
 * __Kearnes S__, Pande V. ROCS-Derived Features for Virtual Screening. _J Comput Aided Mol Des_ 30, 609–617. ([JCAMD](https://doi.org/10.1007/s10822-016-9959-3), [arXiv](https://arxiv.org/pdf/1606.01822.pdf))
 * __Kearnes S__, McCloskey K, Berndl M, Pande V, Riley P. Molecular Graph Convolutions: Moving Beyond Fingerprints. _J Comput Aided Mol Des_ 30, 595–608. ([JCAMD](https://doi.org/10.1007/s10822-016-9938-8), [arXiv](https://arxiv.org/pdf/1603.00856.pdf))
@@ -169,3 +173,8 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 * Williams College Physics Department, Williamstown, MA (7 November)
 * Vertex Pharmaceuticals, Boston, MA (6 November)
 * F5 Networks, Spokane, WA (23 June)
+
+## Patents
+
+* WO2023069592A1. Multi-label neural architecture for modeling DNA-encoded libraries data. ([Google Patents](https://patents.google.com/patent/WO2023069592A1))
+* WO2023122136A1. Instance-level poisson probabilistic model for DNA-encoded small molecule libraries. ([Google Patents](https://patents.google.com/patent/WO2023122136A1))
