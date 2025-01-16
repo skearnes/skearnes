@@ -58,7 +58,7 @@
 ### 2023
 
 * Mercado R, __Kearnes SM__, Coley C. Data Sharing in Chemistry: Lessons Learned and a Case for Mandating Structured Reaction Data. _J Chem Inf Model_ 63, 14, 4253–4265. ([JCIM](https://doi.org/10.1021/acs.jcim.3c00607))
-* Xu J, __Kearnes S__, Feng JW. Hit Expansion Driven By Machine Learning. NeurIPS 2023 Workshop: New Frontiers of AI for Drug Discovery and Development. ([OpenReview](https://openreview.net/forum?id=nYTeNDMz0E))
+* Xu J, __Kearnes S__, Feng JW. Hit Expansion Driven By Machine Learning. NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development. ([OpenReview](https://openreview.net/forum?id=nYTeNDMz0E))
 
 ### 2022
 
@@ -67,7 +67,7 @@
 ### 2021
 
 * __Kearnes SM__, Maser MR, Wleklinski M, Kast A, Doyle AG, Dreher SD, Hawkins JM, Jensen KF, Coley CW. The Open Reaction Database. _JACS_ 143(45), 18820-18826. ([JACS](https://doi.org/10.1021/jacs.1c09820))
-* Han K, __Kearnes S__, Xu J, Torng W, Feng JW. Improving Hit-finding: Multilabel Neural Architecture with DEL. NeurIPS 2021 Workshop: AI for Science. ([OpenReview](https://openreview.net/forum?id=fScB3uII-JV))
+* Han K, __Kearnes S__, Xu J, Torng W, Feng JW. Improving Hit-finding: Multilabel Neural Architecture with DEL. NeurIPS 2021 Workshop on AI for Science. ([OpenReview](https://openreview.net/forum?id=fScB3uII-JV))
 * Sun R, Dai H, Li L, __Kearnes S__, Dai B. Towards understanding retrosynthesis by energy-based models. _Advances in Neural Information Processing Systems_ 34, 10186–10194. ([OpenReview](https://openreview.net/forum?id=yGKi6deX8bX), [arXiv](https://arxiv.org/pdf/2007.13437.pdf))
 
 ### 2020
