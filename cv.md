@@ -20,6 +20,9 @@
 
 ## Experience
 
+### Genesis Therapeutics
+> 2025&ndash;Present: Research Fellow
+
 ### Relay Therapeutics
 > 2021&ndash;2024: Director, AI Research
 
