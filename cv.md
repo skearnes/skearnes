@@ -113,6 +113,10 @@ with Graph-Structured Data. ([arXiv](http://arxiv.org/abs/1904.08915))
 
 ## Talks
 
+### 2025
+
+* Computational Medicinal Chemistry School (10 September)
+
 ### 2023
 
 * MIT Biotech Group (15 March)
