@@ -53,6 +53,10 @@
 * Neural Networks for Drug Discovery: A Work in Progress ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress), 4 March 2015)
 * Large-Scale Machine Learning for Drug Discovery ([Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html), 2 March 2015)
 
+### 2025
+
+* Martin E, et al. Comparing Massively‐Multitask Regression Algorithms for Drug Discovery. ([ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67b7cadafa469535b9380e31))
+
 ### 2024
 
 * Ackloo S, et al. A Target Class Ligandability Evaluation of WD40 Repeat-Containing Proteins. _J Med Chem_. ([JMC](https://doi.org/10.1021/acs.jmedchem.4c02010), [bioRxiv](https://doi.org/10.1101/2024.03.03.583197))
