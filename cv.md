@@ -21,7 +21,7 @@
 ## Experience
 
 ### Genesis Therapeutics
-> 2026&ndash;Present: Director, Applied ML Science, Cheminformatics
+> 2026&ndash;Present: Director, Applied ML Science, Cheminformatics<br>
 > 2025&ndash;2026: Research Fellow
 
 ### Relay Therapeutics
