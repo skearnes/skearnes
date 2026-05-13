@@ -54,9 +54,9 @@
 * Neural Networks for Drug Discovery: A Work in Progress ([In the Pipeline](https://blogs.sciencemag.org/pipeline/archives/2015/03/04/neural_networks_for_drug_discovery_a_work_in_progress), 4 March 2015)
 * Large-Scale Machine Learning for Drug Discovery ([Google AI Blog](https://ai.googleblog.com/2015/03/large-scale-machine-learning-for-drug.html), 2 March 2015)
 
-### 2025
+### 2026
 
-* Martin E, et al. Comparing Massively‐Multitask Regression Algorithms for Drug Discovery. ([ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67b7cadafa469535b9380e31))
+* Martin E, et al. Comparing Massively‐Multitask Regression Algorithms for Drug Discovery. _J Comput Aided Mol Des_ 40, 58. ([JCAMD](https://doi.org/10.1007/s10822-026-00761-1), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/67b7cadafa469535b9380e31))
 
 ### 2024
 
